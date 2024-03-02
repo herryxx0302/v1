@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test
+=======
+hello world
+>>>>>>> 2da03d91d695eb224675a8003a637998a375e914
 hi
 hello
 456
